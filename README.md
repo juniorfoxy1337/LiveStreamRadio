@@ -8,7 +8,7 @@ Install the following software on your machine: Screen, Alsa, mpg123
 ## Installation
 Clone this repository
 ```bash
-git clone https://github.com/NoniDOTio/LiveStreamRadio.git
+git clone https://github.com/juniorfoxy/liveinf.git
 ```
 
 ## How To Use
